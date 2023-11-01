@@ -1,5 +1,5 @@
-#AI_PHASE wise project_Submission
-#Predicting_Stock_Prices using Machine_Learning
+# AI_PHASE wise project_Submission
+# Predicting_Stock_Prices using Machine_Learning
 Data Source:(https://www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset)
 Reference: Kaggle.com
 # How to run the code and any dependency:
