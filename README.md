@@ -9,8 +9,8 @@ Reference: Kaggle.com
   #pip install jupyter lab
   #pip install jupyter notebook(or)
             1.Download Anaconda community software for desktop
-            2.Instal te anaconda community
-            3.Ope jupyter notebook
+            2.Install the anaconda community
+            3.Open jupyter notebook
             4.Type the code & execute the given code
             
 # Stock Price Prediction
